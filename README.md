@@ -16,7 +16,7 @@ I am a passionate and detail-oriented computer engineer, recently graduated and 
 
 ### Techila Global Services
 
-**Software Engineer Intern
+Software Engineer Intern
 
 - Learned Salesforce Administration
 - Learned fundamentals of JavaScript and React.
